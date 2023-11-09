@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0c12d523-c24e-4203-a67b-2d9d020a1705": {
+      "ProjectGuid": "0c12d523-c24e-4203-a67b-2d9d020a1705",
+      "DisplayName": "template-sfml2.5.1-win-ping-pong9",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
